@@ -1,2 +1,3 @@
 console.log("My name is memuna gul");
 console.log("Gul is here..");
+console.log("new");
